@@ -5,7 +5,7 @@ Documentación de los grupos que materializan los perfiles de trabajo definidos 
 ---
 
 ## ssa-backend-services-dev-lead-devs
-s
+
 ### Descripción
 
 Desarrolladores con responsabilidades de liderazgo técnico. Requieren acceso amplio para desarrollar, operar, monitorear y atender incidentes de seguridad en el proyecto.
